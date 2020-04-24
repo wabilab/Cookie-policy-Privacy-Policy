@@ -76,7 +76,7 @@ Chrome https://support.google.com/chrome/answer/95647?hl=it&topic=14666&ctx=topi
 Safari https://support.apple.com/it-it/guide/safari/sfri11471/mac
 Safari (dispositivi mobili) https://support.apple.com/it-it/HT201265
 
-RAGIONE SOCIALE CLIENTE
+<b>RAGIONE SOCIALE CLIENTE</b>
 Indirizzo
 P.IVA XXXXXXXX
 R.E.A. TV - XXXX
