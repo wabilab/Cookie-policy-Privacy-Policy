@@ -70,11 +70,11 @@ se utilizzare o meno.
 Può bloccare o cancellare (in tutto o in parte) i cookie tecnici e di funzionalità anche attraverso le
 specifiche funzioni del suo Browser. Per avere maggiori informazioni su come impostare le
 preferenze sull'uso dei cookie attraverso il Browser, è possibile consultare le relative istruzioni:
-Internet Explorer
-Firefox
-Chrome
-Safari
-Safari (dispositivi mobili)
+Internet Explorer https://support.microsoft.com/it-it/help/17442/windows-internet-explorer-delete-manage-cookies
+Firefox https://support.mozilla.org/it/kb/protezione-antitracciamento-avanzata-firefox-desktop?redirectlocale=it&redirectslug=Attivare+e+disattivare+i+cookie
+Chrome https://support.google.com/chrome/answer/95647?hl=it&topic=14666&ctx=topic
+Safari https://support.apple.com/it-it/guide/safari/sfri11471/mac
+Safari (dispositivi mobili) https://support.apple.com/it-it/HT201265
 
 RAGIONE SOCIALE CLIENTE
 Indirizzo
