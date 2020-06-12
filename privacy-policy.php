@@ -1,3 +1,4 @@
+<div class="section-title">Privacy Policy</section>
 <p>
     Informativa resa ai sensi degli artt. 13-14 del GDPR (General Data Protection Regulation) n. 2016/679 (di seguito "Regolamento")
     <br /><br />
