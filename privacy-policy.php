@@ -39,7 +39,7 @@
     Informiamo inoltre che, ai fini della raccolta candidature, RAGIONE SOCIALE CLIENTE potrebbe analizzare i suoi profili social a carattere professionale, da lei resi liberamente disponibili su Internet (es. LinkedIn).<br /><br />
 
     <b>d) Cookies</b><br />
-    Si veda la cookie policy al seguente <a href="<?php get_page_link(74); ?>">link.</a>
+    Si veda la cookie policy al seguente <a href="<?= get_page_link(74); ?>">link.</a>
     <br /><br />
 
     <b>3. FINALITÀ DEL TRATTAMENTO</b><br />
