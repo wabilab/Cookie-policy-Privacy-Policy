@@ -3,7 +3,7 @@
     Informativa resa ai sensi degli artt. 13-14 del GDPR (General Data Protection Regulation) n. 2016/679 (di seguito "Regolamento")
     <br /><br />
 
-    <b>0. PREMESSSA</b><br />
+    <b>0. PREMESSA</b><br />
     Con la presente pagina si intende informare l'utenza in merito alle politiche osservate da RAGIONE SOCIALE CLIENTE,, con sede in indirizzo, in materia di raccolta, conservazione, utilizzo ed eventuale divulgazione di ogni informazione personale degli utenti assunta nell'ambito della fruizione dei servizi offerti nel sito 
   
   SITOCLIENTE.it.
