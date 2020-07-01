@@ -4,17 +4,15 @@
     <br /><br />
 
     <b>0. PREMESSA</b><br />
-    Con la presente pagina si intende informare l'utenza in merito alle politiche osservate da RAGIONE SOCIALE CLIENTE,, con sede in indirizzo, in materia di raccolta, conservazione, utilizzo ed eventuale divulgazione di ogni informazione personale degli utenti assunta nell'ambito della fruizione dei servizi offerti nel sito 
-  
-  SITOCLIENTE.it.
+    Con la presente pagina si intende informare l'utenza in merito alle politiche osservate da RAGIONE SOCIALE CLIENTE,, con sede in indirizzo, in materia di raccolta, conservazione, utilizzo ed eventuale divulgazione di ogni informazione personale degli utenti assunta nell'ambito della fruizione dei servizi offerti nel sito SITOCLIENTE.it.
     La presente privacy policy è soggetta ad aggiornamenti e modifiche.
     Tali eventualità saranno comunicate via newsletter o saranno messe in evidenza nelle apposite sezioni del sito. Si consiglia di controllare in ogni caso la presente privacypolicy con periodicità.
     RAGIONE SOCIALE CLIENTE garantisce il rispetto delle normative sopra richiamate, invitando gli utenti a leggere con attenzione la presente Privacy Policy prima di inviare qualsiasi informazione personale, specificando che la presente informativa è resa solamente per il presente sito.
-    La gestione e la proprietà del sito www.SITOCLIENTE.it appartengono esclusivamente a RAGIONE SOCIALE CLIENTE,.<br /><br />
+    La gestione e la proprietà del sito www.SITOCLIENTE.it appartengono esclusivamente a RAGIONE SOCIALE CLIENTE.<br /><br />
 
     <b>1. TITOLARE DEL TRATTAMENTO DEI DATI E RESPONSABILE DELLA PROTEZIONE DEI DATI</b><br />
-    Il titolare del trattamento dei dati è RAGIONE SOCIALE CLIENTE,, P.IVA XXXXXXXXXXX, con INDIRIZZO, Italia.
-    È possibile contattare l’azienda all’indirizzo: MAIL DEL CLIENTE per qualunque informazione inerente il trattamento dei dati personali di Bonotto Soluzioni Metalliche, tra cui l’elenco dei responsabili che trattano dati.
+    Il titolare del trattamento dei dati è RAGIONE SOCIALE CLIENTE, P.IVA XXXXXXXXXXX, con INDIRIZZO, Italia.
+    È possibile contattare l’azienda all’indirizzo: MAIL DEL CLIENTE per qualunque informazione inerente il trattamento dei dati personali di RAGIONE SOCIALE DEL CLIENTE, tra cui l’elenco dei responsabili che trattano dati.
     <br /><br />
 
     <b>2. TIPOLOGIE DI DATI RACCOLTI</b><br />
