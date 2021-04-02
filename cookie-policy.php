@@ -34,6 +34,17 @@
     Link a pagina di download allo strumento che permette la disabilitazione della installazione di tali cookie: <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a>;<br />
     Cookie di profilazione che potrebbero essere utilizzati: _ga, _gid, _gat, _utma, _utmt, _utmb, _utmc, _utmz, _utmv, gac, AMP_TOKEN.
     <br /><br />
+    b) Userlike: https://www.userlike.com/it/: utilizza cookie tecnici necessari per l’utilizzo della live chat.<br>
+    Link a privacy policy: https://www.userlike.com/it/terms#privacy-policy;<br>
+    Link pagina di descrizione cookie installati: https://userlike-en.helpscoutdocs.com/article/307-userlike-use-of-cookies.<br>
+    Cookie tecnici che potrebbero essere utilizzati: userID, nome dell’utente, e-mail dell’utente.
+    <br><br>
+    c) Pixel Facebook<br>
+    Inoltre, è installato il cookie Facebook Pixel che consente alla nostra di monitorare le conversioni che si verificano sul suo sito Web come risultato delle inserzioni che sta eseguendo su Facebook.<br>
+    Ad esempio, nel caso in cui desideri monitorare le adesioni ad una particolare campagna pubblicizzata su Facebook, il cookie comunica a Facebook ogni volta che un utente ha concluso ha aderito ad una particolare campagna sul sito.
+    Facebook confronta l’evento di conversione con il gruppo di persone a cui è stata mostrata l’inserzione o che hanno cliccato su di essa, al fine di fornire all'azienda le informazioni che lo aiutano a capire il ritorno sull’investimento per la sua spesa pubblicitaria.
+    L'azienda non utilizza questo cookie per finalità di profilazione dell’interessato ma soltanto per fini statistici.
+    <br><br>
 
     <b>4. DE-SELEZIONE COOKIE DI TERZE PARTI</b><br />
     ATTENZIONE: disabilitando i cookie tecnici e/o di funzionalità il sito potrebbe risultare non consultabile o alcuni servizi o determinate funzioni del sito potrebbero risultare non disponibili o non funzionare correttamente e potresti essere costretto a modificare o a inserire manualmente alcune informazioni o preferenze ogni volta che visiterà il sito.
